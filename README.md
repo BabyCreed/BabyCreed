@@ -5,10 +5,10 @@
 <h1 align="center">BabyCreed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&width=600&lines=I+work+best+after+dark.;Flutter+%C2%B7+Dart+%C2%B7+Supabase;Not+the+dev+Gotham+deserves.;The+one+it+needs." alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&width=600&lines=I+work+best+after+dark.;AI+agents+%C2%B7+Medical+imaging+%C2%B7+Web+%C2%B7+Mobile;Not+the+dev+Gotham+deserves.;The+one+it+needs." alt="Typing intro"/>
 </p>
 
-<p align="center"><sub>Mobile developer · South Africa · Building healthcare tech in the shadows</sub></p>
+<p align="center"><sub>Full-stack &amp; AI builder · South Africa · Building in the shadows</sub></p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
@@ -17,9 +17,8 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <p>I build mobile apps with <b>Flutter</b> and back them with <b>Supabase</b>. Clean architecture, quiet interfaces, and code that holds up at 2&nbsp;a.m.</p>
-      <p>Right now I'm working on <b>CliQ</b>, a queue platform for South African private clinics, so patients can wait from anywhere instead of a crowded waiting room.</p>
-      <p>Also building <b>Loopd</b>, a Flutter app shipped one phase at a time.</p>
+      <p>I build products end to end: <b>AI agents</b>, <b>medical imaging models</b>, <b>web platforms</b> and <b>mobile apps</b>, mostly for problems South African businesses and clinics actually have.</p>
+      <p>Python and PyTorch on the back, Next.js and Flutter on the front, Supabase underneath. Clean architecture, quiet interfaces, and code that holds up at 2&nbsp;a.m.</p>
       <p><i>Ship quietly. Let the product speak.</i></p>
     </td>
     <td width="45%" align="center">
@@ -30,10 +29,27 @@
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
+<h2 align="center">Case Files</h2>
+
+| | Case | Brief | Built with |
+|:--:|:--|:--|:--|
+| 🩻 | **OncoVision** | Research-only mammography screening prototype: a DICOM goes in, out come an image-quality verdict, a calibrated suspicion score and a Grad-CAM heatmap | Python · PyTorch · scikit-learn |
+| 🔬 | **TissueLens** | Product site for offline AI mammogram triage in South African clinics. The radiologist always decides | Next.js · TypeScript · Tailwind · GSAP · Three.js |
+| 📦 | **Tareline** | Turns shipment documents into true landed cost per SKU per batch, with every number traceable to the line it came from | Python · TypeScript · FastAPI |
+| 🕸️ | **Synthetix** | Vertical AI agents for SA businesses in property, insurance and healthcare: one shared core, thin industry skill layers | Python · AI agents |
+| 🏥 | **CliQ** | Runs the clinic morning: live waiting room, walk-ins and a WhatsApp/SMS queue engine | Next.js · React · Supabase |
+| 🎧 | **Loopd** | *Your friends are the playlist.* A small-circle social layer around Spotify and Apple Music | Flutter · Supabase |
+
+<p align="center"><sub>Most cases are classified (private repos). Ask and I'll walk you through them.</sub></p>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 <h2 align="center">Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,postgres,firebase,figma,git,github,vscode&theme=dark&perline=9" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,ts,nextjs,react,tailwind,threejs&theme=dark&perline=9" alt="Languages and frameworks"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,postgres,git,github,vscode&theme=dark&perline=9" alt="Mobile, data and tooling"/>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
