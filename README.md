@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BabyCreed&bg_color=0d1117&color=8b949e&line=e6edf3&point=ffffff&area=true&area_color=c9d1d9&hide_border=true&custom_title=Activity%20After%20Dark" alt="Contribution graph"/>
+  <img width="100%" src="https://raw.githubusercontent.com/BabyCreed/BabyCreed/output/snake-noir.svg" alt="Contribution snake"/>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
