@@ -1,82 +1,68 @@
 <p align="center">
-  <img src="assets/header.svg" alt="BabyCreed — bat signal over Gotham" width="100%"/>
+  <img src="assets/banner.png" alt="Batman silhouetted against the moon" width="100%"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/BabyCreed">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FFD60A&center=true&vCenter=true&width=640&lines=I'm+not+the+dev+Gotham+deserves...;...but+the+one+it+needs+right+now.;Building+Flutter+apps+after+dark+%F0%9F%A6%87;Healthcare+tech+for+South+African+clinics" alt="Typing intro"/>
-  </a>
-</p>
+<h1 align="center">BabyCreed</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BabyCreed&label=SIGNALS%20RECEIVED&color=FFD60A&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/BabyCreed?label=ALLIES&style=for-the-badge&color=0d0d0d&labelColor=FFD60A&logo=github&logoColor=0d0d0d" alt="Followers"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&width=600&lines=I+work+best+after+dark.;Flutter+%C2%B7+Dart+%C2%B7+Supabase;Not+the+dev+Gotham+deserves.;The+one+it+needs." alt="Typing intro"/>
+</p>
+
+<p align="center"><sub>Mobile developer · South Africa · Building healthcare tech in the shadows</sub></p>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<h2 align="center">The Watcher</h2>
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <p>I build mobile apps with <b>Flutter</b> and back them with <b>Supabase</b>. Clean architecture, quiet interfaces, and code that holds up at 2&nbsp;a.m.</p>
+      <p>Right now I'm working on <b>CliQ</b>, a queue platform for South African private clinics, so patients can wait from anywhere instead of a crowded waiting room.</p>
+      <p>Also building <b>Loopd</b>, a Flutter app shipped one phase at a time.</p>
+      <p><i>Ship quietly. Let the product speak.</i></p>
+    </td>
+    <td width="45%" align="center">
+      <img src="assets/rooftop.png" alt="Batman watching over the city" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<h2 align="center">Arsenal</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,postgres,firebase,figma,git,github,vscode&theme=dark&perline=9" alt="Tech stack"/>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🦇 &nbsp;Case File
-
-```dart
-final babyCreed = Vigilante(
-  alias:     'BabyCreed',
-  base:      'South Africa 🇿🇦',
-  patrol:    ['Flutter', 'Dart', 'Supabase', 'PostgreSQL'],
-  mission:   'Ending the waiting-room queue in private clinics',
-  utilityBelt: ['clean architecture', 'pixel-perfect UI', 'late-night commits'],
-  motto:     'Ship quietly. Let the product speak.',
-);
-```
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## 🛠️ &nbsp;Utility Belt
+<h2 align="center">Night Patrol</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-0d0d0d?style=for-the-badge&logo=flutter&logoColor=FFD60A"/>
-  <img src="https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=FFD60A"/>
-  <img src="https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=FFD60A"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=FFD60A"/>
-  <img src="https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FFD60A"/>
-  <img src="https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=FFD60A"/>
-  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=FFD60A"/>
-  <img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=FFD60A"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BabyCreed&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&rank_icon=github&custom_title=Case%20Log" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=BabyCreed&hide_border=true&background=0d1117&ring=c9d1d9&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681&stroke=30363d" alt="Commit streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BabyCreed&bg_color=0d1117&color=8b949e&line=e6edf3&point=ffffff&area=true&area_color=c9d1d9&hide_border=true&custom_title=Activity%20After%20Dark" alt="Contribution graph"/>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🏙️ &nbsp;Currently Protecting
-
-| Project | Mission | Stack |
-|:--|:--|:--|
-| **CliQ** | Smart queue platform for SA private clinics — patients wait from anywhere, not the waiting room | Flutter · Supabase |
-| **Loopd** | Mobile companion app, built in phases | Flutter · Dart |
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## 📡 &nbsp;Batcomputer Readout
+<h2 align="center">Signal</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BabyCreed&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FFD60A&icon_color=FFD60A&text_color=c9d1d9&rank_icon=github&custom_title=Batcomputer%20Stats" alt="GitHub stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=BabyCreed&hide_border=true&background=0d0d0d&ring=FFD60A&fire=FFD60A&currStreakLabel=FFD60A&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=9aa0ad&stroke=2a2a2a" alt="Commit streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BabyCreed&bg_color=0d0d0d&color=c9d1d9&line=FFD60A&point=ffffff&area=true&area_color=FFD60A&hide_border=true&custom_title=Night%20Patrol%20Activity" alt="Contribution graph"/>
-</p>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## 📟 &nbsp;Signal Me
-
-<p align="center">
+  <a href="https://github.com/BabyCreed"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3"/></a>
   <!-- Add contact links here, e.g.:
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Bat--Mail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FFD60A"/></a>
-  <a href="https://linkedin.com/in/you"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FFD60A"/></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e6edf3"/></a>
+  <a href="https://linkedin.com/in/you"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=e6edf3"/></a>
   -->
-  <a href="https://github.com/BabyCreed"><img src="https://img.shields.io/badge/The_Cave-0d0d0d?style=for-the-badge&logo=github&logoColor=FFD60A"/></a>
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" alt="Bats flying over the city" width="100%"/>
+  <img src="assets/signal.png" alt="Bat signal over the city" width="100%"/>
 </p>
+
+<p align="center"><sub><i>"It's not who I am underneath, but what I commit that defines me."</i></sub></p>
